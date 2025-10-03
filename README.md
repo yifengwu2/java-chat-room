@@ -28,7 +28,7 @@
 
 ## 🛠 运行方式
 
-### 1. 编译
+### 1. 编译服务器和客户端
 ```bash
 javac ChatServer.java
-```
+javac ChatClient.java
